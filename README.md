@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/emanuel-dervishi/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:vikshelby2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
   <a href="https://imemanuel.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" /></a>
-  <a href="https://github.com/emanuelvictordervishi"><img src="https://img.shields.io/github/followers/emanuelvictordervishi?label=Follow&style=social" /></a>
+
 </p>
 
 ---
